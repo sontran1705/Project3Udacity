@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Project3Udacity.iml" filepath="$PROJECT_DIR$/.idea/Project3Udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starter/critter/critter.iml" filepath="$PROJECT_DIR$/starter/critter/critter.iml" />
     </modules>
   </component>
 </project>
